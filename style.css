@@ -1,0 +1,36 @@
+body{
+    font-family: 'oppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-size: 50px;
+    color: orange;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+.background-img{
+    background-image: url(image/donation9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:600px;
+}
+.main{
+    margin: 40px;
+    width: 40%;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px;
+    font-size: 30px;
+    background-image: linear-gradient(orange, tomato);
+}
+.balance h1{
+    text-align: center;
+    color: black;
+}
