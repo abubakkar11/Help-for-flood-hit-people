@@ -116,3 +116,36 @@ body{
 .width-half p{
     color: #494747;
 }
+.input-item{
+    background-color: #cfb46a;
+    text-align: center;
+    padding: 5%;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+}
+.link-item{
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 20px;
+    background-image: linear-gradient(orange, tomato);
+}
+.input-item input{
+    font-size: 20px;
+   padding: 10px;
+   border: none;
+}
+.footer{
+    text-align: center;
+    background: #191111;
+    margin: 5px;
+    padding: 2%;
+}
+.footer h4{
+    color: tomato;
+}
+footer{
+    color: white;
+}
