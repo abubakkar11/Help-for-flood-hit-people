@@ -1,6 +1,6 @@
 body{
     font-family: 'oppins', sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     margin: 0%;
     padding: 0%;
 }
@@ -26,7 +26,7 @@ body{
 .link-button{
     color: white;
     text-decoration: none;
-    border-radius: 3px;
+    border-radius: 4px;
     padding: 1%;
     font-size: 30px;
     background-image: linear-gradient(orange, tomato);
@@ -37,6 +37,8 @@ body{
     padding: 70px;
 }
 .text-item{
+    color: #acacac;
+    width: 100%;
     font-size: 20px;
 }
 .donate-item{
@@ -72,4 +74,45 @@ body{
     padding-right: 50px;
     padding: 10px;
     width: 90%;
+}
+.top-banar{
+    display: flex;
+    font-size: 20px;
+}
+.helf-width{
+    font-size: 20px;
+    width: 33%;
+    padding: 3%;
+    margin: 5%;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 25px gray;
+}
+.helf-width p{
+    color: #494747;
+}
+#background{
+    background: #e4dddd;
+}
+#background-center{
+    background-color: #c78b6c;
+}
+#background-right{
+    background-color: #edd2b0;
+}
+.marsin-img{
+    margin: 8%;
+    border-radius: 10px;
+}
+.width-half{
+    width: 50%;
+    padding: 8%;
+}
+#need-us{
+    padding: 10%;
+    margin-left: 0%;
+}
+.width-half p{
+    color: #494747;
 }
