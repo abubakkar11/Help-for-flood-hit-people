@@ -14,6 +14,7 @@ body{
 }
 .background-img{
     background-image: url(image/donation9.jpg);
+    
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -66,13 +67,11 @@ body{
     border: 3px solid #ee6b6b;
     border-radius: 5px;
 }
-.other-balance{
+
+#input-banar{
     text-align: center;
-    color: #f6d7d7;
-    font-size: 18px;
+    border: none;
     border-bottom: 1px solid #857878;
-    padding-right: 50px;
-    padding: 10px;
     width: 90%;
 }
 .top-banar{
