@@ -101,6 +101,9 @@ body{
 #background-right{
     background-color: #edd2b0;
 }
+#background-right img{
+        padding-right: 10px;
+}
 .marsin-img{
     margin: 8%;
     border-radius: 10px;
